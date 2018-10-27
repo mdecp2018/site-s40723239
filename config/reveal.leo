@@ -22,8 +22,8 @@
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
-<v t="leo.20181027191552.1" a="E"><vh>投影片1</vh>
-<v t="leo.20181027191552.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20181027191552.1" a="E"><vh>封面投影片內容</vh>
+<v t="leo.20181027191552.2"><vh>投影片1</vh></v>
 </v>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
@@ -330,17 +330,8 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181027191552.1">##MCAD 2a W4 網際簡報
-
-*[CMSimfly](https://github.com/chiamingyen/cmsimfly)操作
-
-*[Onshape](https://www.onshape.com/)操作
-
-
-						
-</t>
-<t tx="leo.20181027191552.2">## jasonhuang 分組投影片
-     *s40723239
+<t tx="leo.20181027191552.1">## jasonhuang 分組投影片
+*s40723239
 
 ### 虎科大機械設計工程系
 
@@ -351,6 +342,14 @@ Created by [KMOLab](http://lab.kmol.info/)
 [2018 Fall 分組網誌](./../blog/index.html)
 
 
+
+						
+</t>
+<t tx="leo.20181027191552.2">##MCAD 2a W4 網際簡報
+
+*[CMSimfly](https://github.com/chiamingyen/cmsimfly)操作
+
+*[Onshape](https://www.onshape.com/)操作
 </t>
 </tnodes>
 </leo_file>
