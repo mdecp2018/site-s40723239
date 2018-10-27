@@ -237,8 +237,7 @@ make.start()
 <t tx="leo.20180827201621.5">&lt;head&gt;
     &lt;meta charset="utf-8"&gt;
 &lt;title&gt;
-2018 Fall 分組網際簡報
-s40723239
+2018 Fall s40723239 分組網際簡報
 &lt;/title&gt;
     &lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
     &lt;meta name="author" content="Hakim El Hattab"&gt;
@@ -303,8 +302,7 @@ s40723239
 &lt;/div&gt;
 
 </t>
-<t tx="leo.20180827201621.8">&lt;!-- Any section element inside of this container is displayed as a slide --&gt;
-&lt;div class="slides"&gt;
+<t tx="leo.20180827201621.8">&lt;div class="slides"&gt;
 @others
 &lt;/div&gt;
 
