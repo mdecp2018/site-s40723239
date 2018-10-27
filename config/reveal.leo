@@ -342,9 +342,9 @@ Created by [KMOLab](http://lab.kmol.info/)
 </t>
 <t tx="leo.20181027195229.2">## MCAD 2a w4 網際簡報
 
-* [CMSimfly](https://github.com/chiamingyen/cmsimfly)操作
+* [CMSimfly](https://github.com/chiamingyen/cmsimfly) 操作
 
-* [ONshape](https://www.onshape.com/)操作
+* [ONshape](https://www.onshape.com/) 操作
 
 
 
