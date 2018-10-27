@@ -24,7 +24,7 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20181027191552.1"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181027195229.1"><vh>投影片1</vh>
+<v t="leo.20181027195229.1" a="E"><vh>投影片1</vh>
 <v t="leo.20181027195229.2"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
@@ -348,11 +348,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 * [ONshape](https://www.onshape.com/)操作
 
-&lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
-&lt;small&gt;
 
-[2018 Fall 分組網誌](./../blog/index.html)
 
 </t>
 </tnodes>
