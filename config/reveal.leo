@@ -22,9 +22,10 @@
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
-<v t="leo.20181027191552.1"><vh>投影片1</vh>
-<v t="leo.20181027191552.2"><vh>投影片1</vh></v>
+<v t="leo.20181027191552.1"><vh>封面投影片內容</vh></v>
 </v>
+<v t="leo.20181027195229.1"><vh>投影片1</vh>
+<v t="leo.20181027195229.2"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
@@ -237,6 +238,7 @@ make.start()
     &lt;meta charset="utf-8"&gt;
 &lt;title&gt;
 2018 Fall 分組網際簡報
+s40723239
 &lt;/title&gt;
     &lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
     &lt;meta name="author" content="Hakim El Hattab"&gt;
@@ -307,41 +309,51 @@ make.start()
 &lt;/div&gt;
 
 </t>
-<t tx="leo.20180827201621.9">## jasonhuang 分組投影片
-*s40723239
+<t tx="leo.20180827201621.9">&lt;section data-markdwon&gt;
+     &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+    
+
+
+
+						
+</t>
+<t tx="leo.20181027191552.1">## site-s40723239網際簡報
 
 ### 虎科大機械設計工程系
 
 &lt;small&gt;
 Created by [KMOLab](http://lab.kmol.info/)
-&lt;/small&gt;&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181027191552.1">###MCAD 2a W4 網際簡報
-*[CMSimfly](https://github.com/chiamingyen/cmsimfly) 操作
-*[onshape](https://www.onshape.com/) 操作
-
 &lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
-&lt;/small&gt;
 
 [2018 Fall 分組網誌](./../blog/index.html)
 
+</t>
+<t tx="leo.20181027195229.1">&lt;section data-markdwon&gt;
+     &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+    
+
 
 
 						
 </t>
-<t tx="leo.20181027191552.2">##MCAD 2a W4 網際簡報
+<t tx="leo.20181027195229.2">## MCAD 2a w4 網際簡報
 
-*[CMSimfly](https://github.com/chiamingyen/cmsimfly)操作
+* [CMSimfly](https://github.com/chiamingyen/cmsimfly)操作
 
-*[Onshape](https://www.onshape.com/)操作
+* [ONshape](https://www.onshape.com/)操作
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;small&gt;
+
+[2018 Fall 分組網誌](./../blog/index.html)
+
 </t>
 </tnodes>
 </leo_file>
