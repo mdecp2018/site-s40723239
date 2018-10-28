@@ -22,10 +22,10 @@
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
-<v t="leo.20181027191552.1"><vh>封面投影片內容</vh></v>
+<v t="leo.20181027144153.1" a="E"><vh>投影片1</vh>
+<v t="leo.20181027144153.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181027195229.1" a="E"><vh>投影片1</vh>
-<v t="leo.20181027195229.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
@@ -127,6 +127,18 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
+<t tx="leo.20180827201621.10">## 2018Fall 分組網際簡報
+
+### 虎科大機械設計工程系
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[2018 Fall 分組網誌](./../blog/index.html)
+
+
+</t>
 <t tx="leo.20180827201621.11">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -237,7 +249,7 @@ make.start()
 <t tx="leo.20180827201621.5">&lt;head&gt;
     &lt;meta charset="utf-8"&gt;
 &lt;title&gt;
-2018 Fall s40723239 分組網際簡報
+2018 Fall 分組網際簡報
 &lt;/title&gt;
     &lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
     &lt;meta name="author" content="Hakim El Hattab"&gt;
@@ -302,50 +314,38 @@ make.start()
 &lt;/div&gt;
 
 </t>
-<t tx="leo.20180827201621.8">&lt;div class="slides"&gt;
+<t tx="leo.20180827201621.8">&lt;!-- Any section element inside of this container is displayed as a slide --&gt;
+&lt;div class="slides"&gt;
 @others
 &lt;/div&gt;
 
 </t>
-<t tx="leo.20180827201621.9">&lt;section data-markdwon&gt;
-     &lt;script type="text/template"&gt;
+<t tx="leo.20180827201621.9">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;
-    
-
 
 
 						
 </t>
-<t tx="leo.20181027191552.1">## site-s40723239網際簡報
+<t tx="leo.20181027144153.1">MCAD 2a W4 網際簡報
+
+*CMSimfly 操作
+*Onshape 操作
+
+
+						
+</t>
+<t tx="leo.20181027144153.2">## 2018Fall 分組網際簡報
 
 ### 虎科大機械設計工程系
 
 &lt;small&gt;
 Created by [KMOLab](http://lab.kmol.info/)
-&lt;small&gt;
+&lt;/small&gt;
 
 [2018 Fall 分組網誌](./../blog/index.html)
-
-</t>
-<t tx="leo.20181027195229.1">&lt;section data-markdwon&gt;
-     &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-    
-
-
-
-						
-</t>
-<t tx="leo.20181027195229.2">## MCAD 2a w4 網際簡報
-
-* [CMSimfly](https://github.com/chiamingyen/cmsimfly) 操作
-
-* [ONshape](https://www.onshape.com/) 操作
-
 
 
 </t>
